@@ -4,20 +4,25 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Pass-green?style=for-the-badge)
 
-
 **👨‍💻 Author:** Yash Jain  
-**📝 Description:** Handle **very large integers** with advanced operations in C++.
+**📝 Description:** Handle **very large integers** with advanced operations in C++ using **OOP principles**.
+
+---
+
+## 🏗️ About the Project
+A C++ program demonstrating **Object-Oriented Programming (OOP)** for performing arithmetic operations on **huge integers**. Includes advanced math operations like Factorial, Fibonacci, and Catalan numbers with caching for efficiency.
 
 ---
 
 ## ✨ Features
 
-- 🔢 Works with **huge integers** beyond standard C++ types.
+- 🔢 Supports **huge integers** beyond standard C++ types.
 - ➕➖✖️➗ Arithmetic: Addition, Subtraction, Multiplication, Division.
 - 🧮 Advanced math: Factorial, Fibonacci, Catalan numbers.
 - 🖥️ Interactive **menu-driven CLI**.
-- ⚡ Optimized caching for fast repeated calculations.
+- ⚡ Optimized caching for repeated calculations.
 - ❌ Handles negatives & zero safely.
+- 🏷️ **OOP Concepts Used:** Classes, Encapsulation, Operator Overloading, Static Members.
 
 ---
 
@@ -36,7 +41,6 @@
 
 Enter your choice:
 
-
 ---
 
 ## 🛠️ Usage
@@ -45,12 +49,13 @@ Enter your choice:
 
 bash
 git clone https://github.com/Yashjain246/BigNumber-Demo.git
-
 cd BigNumber-Demo
 
+
+cd BigNumber-Demo
 g++ BigNumberDemo.cpp -o BigNumberDemo
 
-./BigNumberDemo      # Windows: BigNumberDemo.exe
+./BigNumberDemo # Windows: BigNumberDemo.exe
 
 ===== BigNumber Demo =====
 
